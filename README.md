@@ -51,29 +51,33 @@ https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/50a69bbb-7b56-4cb
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/f19b0229-b69f-4960-b0a3-08e669dbe960
 
 회원정보수정
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/48999e7f-8189-467a-be72-23d70a693a22
 
 회원탈퇴
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/0397bdf2-5fee-4ccb-852d-b83a7235b938
 
 로그인확인_공지사항
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d0bab6b2-6bbe-4295-9b55-c99919cf4359
 
 2. 게시판 관련
 
 게시판글쓰기
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/dba2581e-750d-4c6f-aa3e-d73edb849157
 
 글수정삭제
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/f189c2d9-4b21-44ca-a39c-b7f53f8039ce
 
 게시판분류별서치
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/34d0aebf-60f1-4389-bdea-54c910080e76
 
 3. 기타
 
 관리자
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d27e898f-df1e-495f-95a7-2e89726dceae
 
-관리자
-https://github.com/jihwan160/portfolio/assets/108442182/1dde22cb-4303-4382-8717-89ac93fc1669
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d27e898f-df1e-495f-95a7-2e89726dceae
