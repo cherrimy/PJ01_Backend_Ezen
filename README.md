@@ -43,9 +43,11 @@
 1. 회원가입 및 로그인 관련
 
 회원가입 1
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/50a69bbb-7b56-4cbb-afc5-6d6c5ed7a574
 
 회원가입 2
+
 https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/f19b0229-b69f-4960-b0a3-08e669dbe960
 
 회원정보수정
