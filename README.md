@@ -14,6 +14,8 @@
 회원 테이블명 : ezen_member
 게시판 테이블명 : ezen_board
 
+![db구성](https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/2121e3ce-5c50-4d6b-aeaf-ca0f35898c09)
+
 
 #3. 구성
 
@@ -26,6 +28,12 @@
 
 
 #4. Work-Flow
+
+![walk_flow](https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/93452860-db5a-489f-a0c7-8721b100695f)
+
+![게시판](https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/a013c19f-15e1-4e37-896a-6544dc22c48e)
+
+
 
 이 프로젝트는 기본적인 회원 관리 시스템과 게시판 기능을 중심으로 구성되어 있습니다. 사용자의 워크플로우는 아래와 같습니다.
 1)   회원가입 :  사용자는 처음으로 시스템에 접근할 때 회원가입 프로세스를 거칩니다. 사용자는 필요한 개인 정보를 입력하고, 이 정보는 데이터베이스에 저장됩니다. 회원 가입이 완료되면 사용자는 자신의 계정으로 로그인할 수 있습니다.
@@ -44,40 +52,40 @@
 
 회원가입 1
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/50a69bbb-7b56-4cbb-afc5-6d6c5ed7a574
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/30c8c03f-ce3f-499b-86dd-6fee9ec3f2f5
 
 회원가입 2
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/f19b0229-b69f-4960-b0a3-08e669dbe960
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/39d42217-2ba1-4fb8-b303-90ab2d741800
 
 회원정보수정
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/48999e7f-8189-467a-be72-23d70a693a22
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d2dcf902-7e1c-447f-be8f-8b0d419be109
 
 회원탈퇴
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/0397bdf2-5fee-4ccb-852d-b83a7235b938
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/c6dec211-0c29-4936-a96a-bcb97d7e9e18
 
 로그인확인_공지사항
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d0bab6b2-6bbe-4295-9b55-c99919cf4359
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/7817d119-6af3-4594-a0ce-0c6c1e7cecf4
 
 2. 게시판 관련
 
 게시판글쓰기
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/dba2581e-750d-4c6f-aa3e-d73edb849157
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/01d2931f-222d-40f8-a838-1948f8e61aac
 
 글수정삭제
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/f189c2d9-4b21-44ca-a39c-b7f53f8039ce
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/2824ad40-2f45-41e7-ab0f-48369184733f
 
 게시판분류별서치
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/34d0aebf-60f1-4389-bdea-54c910080e76
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/e402e2bb-d054-4280-b667-4364ebd63ade
 
 3. 기타
 
 관리자
 
-https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/d27e898f-df1e-495f-95a7-2e89726dceae
+https://github.com/cherrimy/PJ01_Backend_Ezen/assets/118973103/8c124ef6-f86b-4bfc-9d9f-21ce6b512d8a
